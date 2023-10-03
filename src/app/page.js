@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <Provider store={store}>
         <h1>Ecommerce</h1>
+        <p>Mahbub,s webapp</p>
     </Provider>
   )
 }
