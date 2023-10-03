@@ -1,4 +1,4 @@
-oimport mongoose from "mongoose";
+import mongoose from "mongoose";
 
 const configOptions = {
   useNewUrlParser: true,
